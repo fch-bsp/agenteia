@@ -1,0 +1,242 @@
+# Base de Dados - Escala Presencial BSP
+## Período: Maio 2025 a Outubro 2025
+
+---
+
+## MAIO 2025
+### Semana de 26/05 a 30/05/2025
+
+| Funcionário | Segunda (26/05) | Terça (27/05) | Quarta (28/05) | Quinta (29/05) | Sexta (30/05) | Horário |
+|-------------|-----------------|----------------|----------------|----------------|---------------|---------|
+| Célio | ❌ | ❌ | ✅ | ✅ | ✅ | 09h às 18h |
+| Gustavo | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Gilson | ✅ | ✅ | ✅ | ✅ | ✅ | 10h às 19h |
+| Marcos | ❌ | ❌ | ✅ | ✅ | ✅ | 10h às 19h |
+| Fernando | ❌ | ❌ | ✅ | ✅ | ✅ | 10h às 19h |
+| João Vitor | Plantão | Plantão | Plantão | Plantão | Plantão | 08h às 17h |
+| Mateus | ❌ | ✅ | ❌ | ❌ | ✅ | 08h às 17h |
+| Gabriel | ❌ | ❌ | ❌ | ✅ | ✅ | 08h às 17h |
+| Alvin | ✅ | ❌ | ❌ | ❌ | ✅ | 09h às 18h |
+| Camily | ❌ | ❌ | ❌ | ✅ | ✅ | 08h às 17h |
+| Igor | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+| Ana Beatriz | ✅ | ✅ | ❌ | ❌ | ✅ | 09h às 18h |
+| Lucas | ✅ | ✅ | ❌ | ❌ | ❌ | 09h às 18h |
+| Mauro | ❌ | ❌ | ❌ | ✅ | ✅ | 08h às 17h |
+| Maria Clara | ❌ | ❌ | ✅ | ❌ | ✅ | 08h às 17h |
+| Vanessa | ❌ | ❌ | ❌ | ✅ | ✅ | 08h às 17h |
+| Nicolas | ✅ | ✅ | ❌ | ❌ | ❌ | 08h às 17h |
+| Hellen | FÉRIAS | FÉRIAS | FÉRIAS | FÉRIAS | FÉRIAS | 08h às 17h |
+| Caio | ✅ | ✅ | ❌ | ❌ | ❌ | 08h às 17h |
+| Alice | ❌ | ✅ | ❌ | ✅ | ❌ | 08h às 17h |
+| Douglas Angelo | ✅ | ❌ | ❌ | ❌ | ✅ | 08h às 17h |
+| Guilherme Engel | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Giovanna | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Mirela | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Vanessa Andrade | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Antonio | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+| Freitas | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Brenda | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Thaynara | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Rodrigo | ❌ | ❌ | ✅ | ❌ | ✅ | 09h às 18h |
+| Deborah | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Beatriz de Oliveira | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Luis | ❌ | ✅ | ❌ | ✅ | ❌ | 08h às 17h |
+| Cassia | ❌ | ❌ | ✅ | ❌ | ✅ | 09h às 18h |
+| Beatriz | ✅ | ❌ | ❌ | ❌ | ✅ | 08h às 17h |
+| Kelly | ❌ | ❌ | ✅ | ❌ | ✅ | 08h às 17h |
+| Ricardo Negrão | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+
+---
+
+## JUNHO 2025
+### Semana de 02/06 a 06/06/2025
+
+| Funcionário | Segunda (02/06) | Terça (03/06) | Quarta (04/06) | Quinta (05/06) | Sexta (06/06) | Horário |
+|-------------|-----------------|----------------|----------------|----------------|---------------|---------|
+| Célio | ✅ | ❌ | ✅ | ✅ | ❌ | 09h às 18h |
+| Gustavo | ✅ | ✅ | ❌ | ✅ | ✅ | 08h às 17h |
+| Gilson | ✅ | ✅ | ✅ | ❌ | ✅ | 10h às 19h |
+| Marcos | ✅ | ✅ | ❌ | ✅ | ✅ | 10h às 19h |
+| Fernando | ✅ | ❌ | ✅ | ✅ | ❌ | 10h às 19h |
+| João Vitor | Plantão | Plantão | Plantão | Plantão | Plantão | 08h às 17h |
+| Mateus | ✅ | ❌ | ✅ | ❌ | ✅ | 08h às 17h |
+| Gabriel | ✅ | ✅ | ❌ | ✅ | ❌ | 08h às 17h |
+| Alvin | ❌ | ✅ | ✅ | ❌ | ✅ | 09h às 18h |
+| Camily | ✅ | ❌ | ✅ | ✅ | ❌ | 08h às 17h |
+| Igor | ✅ | ✅ | ✅ | ❌ | ✅ | 09h às 18h |
+| Ana Beatriz | ❌ | ✅ | ✅ | ✅ | ❌ | 09h às 18h |
+| Lucas | ✅ | ❌ | ✅ | ✅ | ✅ | 09h às 18h |
+| Mauro | ✅ | ✅ | ❌ | ✅ | ❌ | 08h às 17h |
+| Maria Clara | ✅ | ❌ | ✅ | ❌ | ✅ | 08h às 17h |
+| Vanessa | ✅ | ✅ | ❌ | ✅ | ✅ | 08h às 17h |
+| Nicolas | ❌ | ✅ | ✅ | ✅ | ❌ | 08h às 17h |
+| Hellen | ✅ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Caio | ❌ | ✅ | ✅ | ✅ | ❌ | 08h às 17h |
+| Alice | ✅ | ❌ | ✅ | ❌ | ✅ | 08h às 17h |
+| Douglas Angelo | ❌ | ✅ | ✅ | ✅ | ❌ | 08h às 17h |
+| Guilherme Engel | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Giovanna | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Mirela | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Vanessa Andrade | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Antonio | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+| Freitas | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Brenda | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Thaynara | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Rodrigo | ✅ | ❌ | ✅ | ✅ | ❌ | 09h às 18h |
+| Deborah | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Beatriz de Oliveira | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Luis | ✅ | ❌ | ✅ | ❌ | ✅ | 08h às 17h |
+| Cassia | ✅ | ✅ | ❌ | ✅ | ❌ | 09h às 18h |
+| Beatriz | ❌ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Kelly | ✅ | ✅ | ❌ | ✅ | ❌ | 08h às 17h |
+| Ricardo Negrão | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+
+---
+
+## JULHO 2025
+### Semana de 07/07 a 11/07/2025
+
+| Funcionário | Segunda (07/07) | Terça (08/07) | Quarta (09/07) | Quinta (10/07) | Sexta (11/07) | Horário |
+|-------------|-----------------|----------------|----------------|----------------|---------------|---------|
+| Célio | ❌ | ✅ | ❌ | ✅ | ✅ | 09h às 18h |
+| Gustavo | ✅ | ❌ | ✅ | ✅ | ❌ | 08h às 17h |
+| Gilson | ✅ | ✅ | ❌ | ✅ | ✅ | 10h às 19h |
+| Marcos | ❌ | ✅ | ✅ | ❌ | ✅ | 10h às 19h |
+| Fernando | ✅ | ✅ | ❌ | ✅ | ✅ | 10h às 19h |
+| João Vitor | Plantão | Plantão | Plantão | Plantão | Plantão | 08h às 17h |
+| Mateus | ❌ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Gabriel | ✅ | ❌ | ✅ | ✅ | ❌ | 08h às 17h |
+| Alvin | ✅ | ✅ | ❌ | ✅ | ❌ | 09h às 18h |
+| Camily | ❌ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Igor | ✅ | ❌ | ✅ | ✅ | ✅ | 09h às 18h |
+| Ana Beatriz | ✅ | ✅ | ❌ | ✅ | ✅ | 09h às 18h |
+| Lucas | ❌ | ✅ | ✅ | ❌ | ✅ | 09h às 18h |
+| Mauro | ✅ | ❌ | ✅ | ✅ | ❌ | 08h às 17h |
+| Maria Clara | ❌ | ✅ | ❌ | ✅ | ✅ | 08h às 17h |
+| Vanessa | ✅ | ❌ | ✅ | ❌ | ✅ | 08h às 17h |
+| Nicolas | ✅ | ✅ | ❌ | ✅ | ✅ | 08h às 17h |
+| Hellen | ❌ | ✅ | ✅ | ✅ | ❌ | 08h às 17h |
+| Caio | ✅ | ❌ | ✅ | ❌ | ✅ | 08h às 17h |
+| Alice | ❌ | ✅ | ❌ | ✅ | ✅ | 08h às 17h |
+| Douglas Angelo | ✅ | ✅ | ❌ | ❌ | ✅ | 08h às 17h |
+| Guilherme Engel | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Giovanna | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Mirela | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Vanessa Andrade | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Antonio | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+| Freitas | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Brenda | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Thaynara | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Rodrigo | ❌ | ✅ | ❌ | ✅ | ✅ | 09h às 18h |
+| Deborah | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Beatriz de Oliveira | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Luis | ✅ | ✅ | ❌ | ✅ | ❌ | 08h às 17h |
+| Cassia | ❌ | ✅ | ✅ | ❌ | ✅ | 09h às 18h |
+| Beatriz | ✅ | ❌ | ✅ | ✅ | ❌ | 08h às 17h |
+| Kelly | ❌ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Ricardo Negrão | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+
+---
+
+## AGOSTO 2025
+### Semana de 04/08 a 08/08/2025
+
+| Funcionário | Segunda (04/08) | Terça (05/08) | Quarta (06/08) | Quinta (07/08) | Sexta (08/08) | Horário |
+|-------------|-----------------|----------------|----------------|----------------|---------------|---------|
+| Célio | ✅ | ✅ | ❌ | ❌ | ✅ | 09h às 18h |
+| Gustavo | ❌ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Gilson | ✅ | ❌ | ✅ | ✅ | ❌ | 10h às 19h |
+| Marcos | ✅ | ✅ | ✅ | ❌ | ✅ | 10h às 19h |
+| Fernando | ❌ | ✅ | ✅ | ✅ | ✅ | 10h às 19h |
+| João Vitor | Plantão | Plantão | Plantão | Plantão | Plantão | 08h às 17h |
+| Mateus | ✅ | ❌ | ❌ | ✅ | ✅ | 08h às 17h |
+| Gabriel | ❌ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Alvin | ✅ | ❌ | ✅ | ✅ | ❌ | 09h às 18h |
+| Camily | ✅ | ✅ | ❌ | ✅ | ❌ | 08h às 17h |
+| Igor | ❌ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+| Ana Beatriz | ✅ | ❌ | ✅ | ❌ | ✅ | 09h às 18h |
+| Lucas | ✅ | ✅ | ❌ | ✅ | ❌ | 09h às 18h |
+| Mauro | ❌ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Maria Clara | ✅ | ❌ | ✅ | ✅ | ❌ | 08h às 17h |
+| Vanessa | ❌ | ✅ | ❌ | ✅ | ✅ | 08h às 17h |
+| Nicolas | ✅ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Hellen | ✅ | ❌ | ✅ | ✅ | ✅ | 08h às 17h |
+| Caio | ❌ | ✅ | ❌ | ✅ | ❌ | 08h às 17h |
+| Alice | ✅ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Douglas Angelo | ❌ | ❌ | ✅ | ✅ | ✅ | 08h às 17h |
+| Guilherme Engel | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Giovanna | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Mirela | FÉRIAS | FÉRIAS | FÉRIAS | FÉRIAS | FÉRIAS | 09h às 16h |
+| Vanessa Andrade | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Antonio | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+| Freitas | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Brenda | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Thaynara | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Rodrigo | ✅ | ❌ | ✅ | ❌ | ✅ | 09h às 18h |
+| Deborah | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Beatriz de Oliveira | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Luis | ❌ | ✅ | ✅ | ✅ | ❌ | 08h às 17h |
+| Cassia | ✅ | ❌ | ✅ | ✅ | ✅ | 09h às 18h |
+| Beatriz | ❌ | ✅ | ❌ | ✅ | ✅ | 08h às 17h |
+| Kelly | ✅ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Ricardo Negrão | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+
+---
+
+## SETEMBRO 2025
+### Semana de 01/09 a 05/09/2025
+
+| Funcionário | Segunda (01/09) | Terça (02/09) | Quarta (03/09) | Quinta (04/09) | Sexta (05/09) | Horário |
+|-------------|-----------------|----------------|----------------|----------------|---------------|---------|
+| Célio | ❌ | ✅ | ✅ | ✅ | ❌ | 09h às 18h |
+| Gustavo | ✅ | ❌ | ❌ | ✅ | ✅ | 08h às 17h |
+| Gilson | ✅ | ✅ | ✅ | ❌ | ✅ | 10h às 19h |
+| Marcos | ❌ | ✅ | ❌ | ✅ | ✅ | 10h às 19h |
+| Fernando | ✅ | ❌ | ✅ | ✅ | ❌ | 10h às 19h |
+| João Vitor | Plantão | Plantão | Plantão | Plantão | Plantão | 08h às 17h |
+| Mateus | ✅ | ✅ | ❌ | ❌ | ✅ | 08h às 17h |
+| Gabriel | ✅ | ❌ | ✅ | ✅ | ✅ | 08h às 17h |
+| Alvin | ❌ | ✅ | ✅ | ❌ | ✅ | 09h às 18h |
+| Camily | ✅ | ✅ | ❌ | ✅ | ✅ | 08h às 17h |
+| Igor | ✅ | ✅ | ✅ | ✅ | ❌ | 09h às 18h |
+| Ana Beatriz | ❌ | ❌ | ✅ | ✅ | ✅ | 09h às 18h |
+| Lucas | ✅ | ✅ | ✅ | ❌ | ✅ | 09h às 18h |
+| Mauro | ✅ | ❌ | ✅ | ✅ | ✅ | 08h às 17h |
+| Maria Clara | ❌ | ✅ | ❌ | ❌ | ✅ | 08h às 17h |
+| Vanessa | ✅ | ✅ | ✅ | ✅ | ❌ | 08h às 17h |
+| Nicolas | ❌ | ❌ | ✅ | ✅ | ✅ | 08h às 17h |
+| Hellen | ✅ | ✅ | ❌ | ✅ | ✅ | 08h às 17h |
+| Caio | ✅ | ✅ | ✅ | ❌ | ✅ | 08h às 17h |
+| Alice | ❌ | ✅ | ✅ | ✅ | ❌ | 08h às 17h |
+| Douglas Angelo | ✅ | ❌ | ❌ | ✅ | ✅ | 08h às 17h |
+| Guilherme Engel | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Giovanna | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Mirela | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Vanessa Andrade | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 16h |
+| Antonio | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+| Freitas | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Brenda | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Thaynara | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Rodrigo | ✅ | ✅ | ❌ | ✅ | ❌ | 09h às 18h |
+| Deborah | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Beatriz de Oliveira | ✅ | ✅ | ✅ | ✅ | ✅ | 08h às 17h |
+| Luis | ✅ | ❌ | ✅ | ❌ | ✅ | 08h às 17h |
+| Cassia | ❌ | ✅ | ❌ | ✅ | ✅ | 09h às 18h |
+| Beatriz | ✅ | ✅ | ✅ | ❌ | ❌ | 08h às 17h |
+| Kelly | ❌ | ❌ | ✅ | ✅ | ✅ | 08h às 17h |
+| Ricardo Negrão | ✅ | ✅ | ✅ | ✅ | ✅ | 09h às 18h |
+
+---
+
+## OUTUBRO 2025
+### Semana de 06/10 a 10/10/2025
+
+| Funcionário | Segunda (06/10) | Terça (07/10) | Quarta (08/10) | Quinta (09/10) | Sexta (10/10) | Horário |
+|-------------|-----------------|----------------|----------------|----------------|---------------|---------|
+| Célio | ✅ | ❌ | ✅ | ❌ | ✅ | 09h às 18h |
+| Gustavo | ❌ | ✅ | ✅ | ✅ | ❌ | 08h às 17h |
+| Gilson | ✅ | ✅ | ❌ | ✅ | ✅ | 10h às 19h |
+| Marcos | ✅ | ❌ | ✅ | ✅ | ✅ | 10h às 19h |
+| Fernando | ❌ | ✅ | ❌ | ✅ | ✅ | 10h às 19h |
+| João Vitor | Plantão | Plantão | Plantão | Plantão | Plantão | 08h às 17h |
+| Mateus | ❌ | ✅ | ✅ | ✅ |

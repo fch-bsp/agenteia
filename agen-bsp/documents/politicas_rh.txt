@@ -1,0 +1,477 @@
+# Políticas de RH - BSPCLOUD Tech Solutions
+## Manual Completo de Recursos Humanos v3.2.1
+
+---
+
+## 1. Visão Geral da Empresa
+
+**BSPCLOUD Tech Solutions** é uma empresa brasileira especializada em soluções de nuvem híbrida, fundada em 2018. Com sede em São Paulo e escritórios em Rio de Janeiro e Belo Horizonte, atendemos clientes Fortune 500 e startups em crescimento.
+
+### Dados Corporativos
+- **CNPJ:** 29.847.392/0001-85
+- **Funcionários ativos:** 287 colaboradores
+- **Faturamento 2024:** R$ 42.8 milhões
+- **Market cap:** Empresa privada (Série B - $15M USD)
+- **Clientes ativos:** 184 empresas
+- **Projetos simultaneos:** 67 projetos ativos
+
+### Estrutura Organizacional
+```
+CEO: Marcus Ferreira
+├── CTO: Patricia Oliveira (85 funcionários)
+├── COO: Anderson Silva (45 funcionários) 
+├── CFO: Roberta Santos (23 funcionários)
+├── CPO: Leonardo Costa (32 funcionários)
+└── CHRO: Rafael Gonzales (27 funcionários)
+```
+
+---
+
+## 2. Certificações e Bonificações Detalhadas
+
+### 2.1 Amazon Web Services (AWS)
+| Certificação | Nível | Bônus Salarial | Validade | Voucher Empresa | Tentativas |
+|--------------|-------|----------------|----------|-----------------|------------|
+| AWS Cloud Practitioner | Foundation | 3% | 3 anos | Sim (100%) | 2x |
+| AWS Solutions Architect Associate | Associate | 10% | 3 anos | Sim (100%) | 2x |
+| AWS Developer Associate | Associate | 8% | 3 anos | Sim (100%) | 2x |
+| AWS SysOps Administrator Associate | Associate | 8% | 3 anos | Sim (100%) | 2x |
+| AWS Solutions Architect Professional | Professional | 15% | 3 anos | Sim (100%) | 3x |
+| AWS DevOps Engineer Professional | Professional | 15% | 3 anos | Sim (100%) | 3x |
+| AWS Security Specialty | Specialty | 12% | 3 anos | Sim (100%) | 2x |
+| AWS Database Specialty | Specialty | 12% | 3 anos | Sim (100%) | 2x |
+| AWS Machine Learning Specialty | Specialty | 15% | 3 anos | Sim (100%) | 2x |
+| AWS Advanced Networking Specialty | Specialty | 12% | 3 anos | Sim (100%) | 2x |
+| AWS Data Analytics Specialty | Specialty | 13% | 3 anos | Sim (100%) | 2x |
+| AWS SAP on AWS Specialty | Specialty | 10% | 3 anos | Sim (50%) | 1x |
+
+### 2.2 Microsoft Azure
+| Certificação | Nível | Bônus Salarial | Validade | Voucher Empresa |
+|--------------|-------|----------------|----------|-----------------|
+| Azure Fundamentals (AZ-900) | Foundation | 2% | 3 anos | Sim (100%) |
+| Azure Administrator Associate (AZ-104) | Associate | 8% | 2 anos | Sim (100%) |
+| Azure Developer Associate (AZ-204) | Associate | 8% | 2 anos | Sim (100%) |
+| Azure Security Engineer Associate (AZ-500) | Associate | 10% | 2 anos | Sim (100%) |
+| Azure Solutions Architect Expert (AZ-305) | Expert | 15% | 2 anos | Sim (100%) |
+| Azure DevOps Engineer Expert (AZ-400) | Expert | 12% | 2 anos | Sim (100%) |
+| Azure AI Engineer Associate (AI-102) | Associate | 12% | 2 anos | Sim (100%) |
+| Azure Data Engineer Associate (DP-203) | Associate | 11% | 2 anos | Sim (100%) |
+| Azure Database Administrator Associate (DP-300) | Associate | 9% | 2 anos | Sim (100%) |
+| Azure Cosmos DB Developer Specialty (DP-420) | Specialty | 8% | 2 anos | Sim (75%) |
+
+### 2.3 Google Cloud Platform (GCP)
+| Certificação | Nível | Bônus Salarial | Validade | Voucher Empresa |
+|--------------|-------|----------------|----------|-----------------|
+| Cloud Digital Leader | Foundation | 3% | 3 anos | Sim (100%) |
+| Associate Cloud Engineer | Associate | 8% | 3 anos | Sim (100%) |
+| Professional Cloud Architect | Professional | 15% | 2 anos | Sim (100%) |
+| Professional Data Engineer | Professional | 12% | 2 anos | Sim (100%) |
+| Professional Cloud Security Engineer | Professional | 12% | 2 anos | Sim (100%) |
+| Professional Cloud Developer | Professional | 10% | 2 anos | Sim (100%) |
+| Professional Cloud Network Engineer | Professional | 10% | 2 anos | Sim (100%) |
+| Professional Cloud DevOps Engineer | Professional | 13% | 2 anos | Sim (100%) |
+| Professional ML Engineer | Professional | 15% | 2 anos | Sim (100%) |
+
+### 2.4 Certificações DevOps e Containerização
+| Certificação | Organização | Bônus | Validade | Voucher |
+|--------------|-------------|-------|----------|---------|
+| Certified Kubernetes Administrator (CKA) | CNCF | 10% | 3 anos | Sim (100%) |
+| Certified Kubernetes Application Developer (CKAD) | CNCF | 8% | 3 anos | Sim (100%) |
+| Certified Kubernetes Security Specialist (CKS) | CNCF | 12% | 2 anos | Sim (100%) |
+| Docker Certified Associate (DCA) | Docker | 5% | 2 anos | Sim (50%) |
+| HashiCorp Certified: Terraform Associate | HashiCorp | 8% | 2 anos | Sim (100%) |
+| HashiCorp Certified: Consul Associate | HashiCorp | 6% | 2 anos | Sim (75%) |
+| HashiCorp Certified: Vault Associate | HashiCorp | 7% | 2 anos | Sim (75%) |
+| Red Hat Certified OpenShift Administrator | Red Hat | 9% | 3 anos | Sim (50%) |
+
+### 2.5 Certificações de Segurança
+| Certificação | Organização | Bônus | Validade | Voucher |
+|--------------|-------------|-------|----------|---------|
+| CISSP (Certified Information Systems Security Professional) | (ISC)² | 15% | 3 anos | Sim (75%) |
+| CISM (Certified Information Security Manager) | ISACA | 12% | 3 anos | Sim (50%) |
+| CISA (Certified Information Systems Auditor) | ISACA | 10% | 3 anos | Sim (50%) |
+| CompTIA Security+ | CompTIA | 5% | 3 anos | Sim (100%) |
+| CompTIA CySA+ | CompTIA | 7% | 3 anos | Sim (75%) |
+| CEH (Certified Ethical Hacker) | EC-Council | 8% | 3 anos | Sim (50%) |
+| OSCP (Offensive Security Certified Professional) | Offensive Security | 12% | Vitalício | Não |
+
+---
+
+## 3. Programa de Desenvolvimento Profissional Detalhado
+
+### 3.1 Orçamento Anual por Funcionário
+| Nível | Orçamento Certificações | Orçamento Treinamentos | Orçamento Eventos | Total Anual |
+|-------|-------------------------|------------------------|-------------------|-------------|
+| Junior (I-II) | R$ 3.500 | R$ 2.000 | R$ 1.500 | R$ 7.000 |
+| Pleno (III-IV) | R$ 5.000 | R$ 3.000 | R$ 2.500 | R$ 10.500 |
+| Senior (V-VI) | R$ 7.500 | R$ 4.000 | R$ 4.000 | R$ 15.500 |
+| Staff/Principal (VII+) | R$ 10.000 | R$ 5.000 | R$ 6.000 | R$ 21.000 |
+
+### 3.2 Tempo Remunerado para Estudos
+- **Funcionários Junior:** 4 horas semanais (20% da jornada)
+- **Funcionários Pleno:** 6 horas semanais (15% da jornada) 
+- **Funcionários Senior:** 8 horas semanais (20% da jornada)
+- **Tech Leads/Arquitetos:** 10 horas semanais (25% da jornada)
+
+### 3.3 Programa de Mentoria Interna
+**Mentores Disponíveis (32 profissionais certificados):**
+
+#### AWS Specialists
+- **Patricia Oliveira** (CTO) - 8x AWS Professional + 3x Specialty
+- **Fernando Carlos** - 5x AWS + 2x Azure Expert  
+- **Maria Silva** - 4x AWS + CKA + CISSP
+- **Carlos Oliveira** - 6x AWS + 3x GCP Professional
+
+#### Azure Specialists  
+- **Roberto Alves** - 6x Azure Expert + AZ-400
+- **Ana Costa** - 4x Azure + AI-102 + DP-203
+- **João Pereira** - 5x Azure + HashiCorp Terraform
+
+#### GCP Specialists
+- **Marcos Lima** - 4x GCP Professional + CKA
+- **Julia Santos** - 5x GCP + Professional ML Engineer
+- **Pedro Santos** - 3x GCP + Kubernetes CKS
+
+### 3.4 Recursos de Aprendizado
+**Plataformas Corporativas Contratadas:**
+- **A Cloud Guru:** 287 licenças ativas (R$ 28.700/mês)
+- **Pluralsight:** 200 licenças (R$ 22.400/mês)  
+- **LinkedIn Learning:** 287 licenças (R$ 15.800/mês)
+- **Udemy Business:** 150 licenças (R$ 12.000/mês)
+- **WhizLabs:** 100 licenças para practice exams (R$ 8.500/mês)
+
+**Laboratórios Virtuais:**
+- **AWS:** Sandbox accounts para todos os desenvolvedores
+- **Azure:** MSDN subscriptions (150 licenças)
+- **GCP:** Qwiklabs credits (R$ 25.000/mês)
+- **Kubernetes:** Rancher clusters internos
+
+**Biblioteca Física e Digital:**
+- 450+ livros técnicos
+- 12 assinaturas de revistas especializadas
+- Acesso a IEEE Xplore e ACM Digital Library
+- Safari Books Online (150 licenças)
+
+---
+
+## 4. Plano de Carreira Técnico Detalhado
+
+### 4.1 Estrutura de Níveis e Salários
+
+#### Track: Software Engineering
+| Nível | Título | Experiência | Salário Base | Certificações Mín | Total Comp |
+|-------|--------|-------------|--------------|-------------------|------------|
+| I | Junior Software Engineer | 0-1 anos | R$ 4.500 | 0-1 | R$ 5.400 |
+| II | Software Engineer | 1-3 anos | R$ 6.500 | 1-2 | R$ 8.450 |
+| III | Software Engineer II | 3-5 anos | R$ 9.000 | 2-3 | R$ 12.600 |
+| IV | Senior Software Engineer | 5-7 anos | R$ 12.000 | 3-4 | R$ 18.000 |
+| V | Staff Software Engineer | 7-10 anos | R$ 16.000 | 4-5 | R$ 25.600 |
+| VI | Principal Software Engineer | 10+ anos | R$ 22.000 | 5+ | R$ 37.400 |
+
+#### Track: Cloud Engineering
+| Nível | Título | Experiência | Salário Base | Certificações Mín | Total Comp |
+|-------|--------|-------------|--------------|-------------------|------------|
+| I | Junior Cloud Engineer | 0-2 anos | R$ 5.000 | 1-2 | R$ 6.000 |
+| II | Cloud Engineer | 2-4 anos | R$ 7.500 | 2-3 | R$ 9.750 |
+| III | Cloud Engineer II | 4-6 anos | R$ 10.500 | 3-4 | R$ 14.700 |
+| IV | Senior Cloud Engineer | 6-8 anos | R$ 14.000 | 4-5 | R$ 21.000 |
+| V | Staff Cloud Engineer | 8-10 anos | R$ 18.000 | 5-6 | R$ 28.800 |
+| VI | Principal Cloud Engineer | 10+ anos | R$ 24.000 | 6+ | R$ 40.800 |
+
+#### Track: Cloud Architecture
+| Nível | Título | Experiência | Salário Base | Certificações Mín | Total Comp |
+|-------|--------|-------------|--------------|-------------------|------------|
+| IV | Cloud Architect | 6+ anos | R$ 16.000 | 4+ (1 Prof/Expert) | R$ 24.000 |
+| V | Senior Cloud Architect | 8+ anos | R$ 21.000 | 5+ (2 Prof/Expert) | R$ 33.600 |
+| VI | Principal Cloud Architect | 10+ anos | R$ 28.000 | 6+ (3 Prof/Expert) | R$ 47.600 |
+| VII | Distinguished Architect | 12+ anos | R$ 35.000 | 7+ (4 Prof/Expert) | R$ 59.500 |
+
+#### Track: DevOps Engineering
+| Nível | Título | Experiência | Salário Base | Certificações Mín | Total Comp |
+|-------|--------|-------------|--------------|-------------------|------------|
+| II | DevOps Engineer | 2-4 anos | R$ 8.000 | 2-3 | R$ 10.400 |
+| III | DevOps Engineer II | 4-6 anos | R$ 11.000 | 3-4 | R$ 15.400 |
+| IV | Senior DevOps Engineer | 6-8 anos | R$ 15.000 | 4-5 | R$ 22.500 |
+| V | Staff DevOps Engineer | 8-10 anos | R$ 19.000 | 5-6 | R$ 30.400 |
+| VI | Principal DevOps Engineer | 10+ anos | R$ 25.000 | 6+ | R$ 42.500 |
+
+### 4.2 Critérios de Promoção Detalhados
+
+**Avaliação Trimestral (100 pontos):**
+- **Performance Técnica:** 40 pontos
+- **Certificações Obtidas:** 25 pontos  
+- **Liderança/Mentoria:** 15 pontos
+- **Contribuição Open Source:** 10 pontos
+- **Apresentações/Artigos:** 10 pontos
+
+**Requisitos por Nível:**
+- **I → II:** 75+ pontos, 1 certificação
+- **II → III:** 80+ pontos, 2+ certificações  
+- **III → IV:** 85+ pontos, 3+ certificações, 1 mentoria
+- **IV → V:** 90+ pontos, 4+ certificações, liderança técnica comprovada
+- **V → VI:** 95+ pontos, 5+ certificações, contribuições significativas
+
+---
+
+## 5. Benefícios Detalhados por Nível
+
+### 5.1 Benefícios Base (Todos os Níveis)
+- **Plano de Saúde:** SulAmérica Nacional (coparticipação 0%)
+- **Plano Odontológico:** Amil Dental (coparticipação 0%)
+- **Seguro de Vida:** 24x salário base
+- **Vale Refeição:** R$ 32,00/dia (R$ 704/mês)
+- **Vale Transporte:** 100% subsidiado ou Auxílio Combustível R$ 400
+- **Gympass:** Plataforma completa (empresa paga 80%)
+
+### 5.2 Benefícios por Nível de Senioridade
+
+#### Níveis I-II (Junior/Pleno Inicial)
+- **PLR:** Até 1.5x salário base
+- **Auxílio Creche:** R$ 600/mês por filho (até 6 anos)
+- **Horário Flexível:** Core hours 10h-16h
+- **Home Office:** 2 dias/semana
+
+#### Níveis III-IV (Pleno/Senior)
+- **PLR:** Até 2.5x salário base
+- **Auxílio Educação:** R$ 1.200/mês (graduação/pós)
+- **Notebook:** Upgrade a cada 2 anos
+- **Conferências:** 1 nacional/ano (R$ 8.000 budget)
+- **Home Office:** 3 dias/semana
+- **Day Off Aniversário:** Folga remunerada
+
+#### Níveis V-VI (Staff/Principal)
+- **PLR:** Até 4x salário base
+- **Stock Options:** Participação acionária (0.1%-0.5%)
+- **Notebook:** MacBook Pro/Dell XPS premium
+- **Conferências:** 1 internacional/ano (R$ 25.000 budget)
+- **Home Office:** 4 dias/semana ou 100% remoto
+- **Auxílio Home Office:** R$ 800/mês para setup
+- **Previdência Privada:** Empresa contribui com 50%
+
+#### Nível VII+ (Distinguished)
+- **PLR:** Até 6x salário base  
+- **Stock Options:** 0.5%-2% participação
+- **Sabbatical:** 1 mês a cada 3 anos
+- **Budget R&D:** R$ 50.000/ano para projetos pessoais
+- **Assistente Virtual:** Suporte administrativo
+- **Car Allowance:** R$ 2.000/mês
+
+---
+
+## 6. Políticas de Trabalho Remoto e Híbrido
+
+### 6.1 Modalidades de Trabalho
+| Nível | Presencial Mín | Home Office Máx | Flexibilidade Horário |
+|-------|----------------|-----------------|----------------------|
+| I-II | 3 dias/semana | 2 dias/semana | Core Hours 10h-16h |
+| III-IV | 2 dias/semana | 3 dias/semana | Core Hours 10h-15h |
+| V-VI | 1 dia/semana | 4 dias/semana | Flexibilidade total |
+| VII+ | Opcional | 100% remoto | Flexibilidade total |
+
+### 6.2 Equipamentos Fornecidos
+**Configuração Padrão (Níveis I-III):**
+- Dell Inspiron 15 5000 ou equivalente
+- Monitor 24" Full HD
+- Teclado e mouse ergonômicos
+- Headset com cancelamento de ruído
+- Cadeira ergonômica (até R$ 1.200)
+
+**Configuração Premium (Níveis IV-VI):**
+- MacBook Pro 14" M3 ou Dell XPS 15
+- Monitor 27" 4K ou dual monitor 24"
+- Setup completo ergonômico
+- Mesa adjustável (standing desk)
+- Iluminação profissional para videoconferências
+
+**Configuração Executive (Nível VII+):**
+- MacBook Pro 16" M3 Max ou estação de trabalho
+- Setup completo profissional (até R$ 15.000)
+- Orçamento anual R$ 5.000 para upgrades
+
+---
+
+## 7. Processo de Recrutamento e Onboarding
+
+### 7.1 Pipeline de Contratação
+**Vagas Ativas (Maio 2025):**
+- Cloud Engineers: 12 vagas abertas
+- DevOps Engineers: 8 vagas abertas  
+- Software Engineers: 15 vagas abertas
+- Cloud Architects: 4 vagas abertas
+- Security Engineers: 6 vagas abertas
+
+**Processo Seletivo:**
+1. **Triagem CV** (ATS: Greenhouse)
+2. **Teste Técnico** (HackerRank/Codility - 90 min)
+3. **Entrevista RH** (30 min)
+4. **Entrevista Técnica** (60 min)
+5. **Entrevista Cultural** (45 min)
+6. **Referências** + Background check
+
+**SLA de Contratação:**
+- Tempo médio: 18 dias
+- Taxa de aprovação: 15%
+- Cost per hire: R$ 8.500
+- Retention rate (1 ano): 87%
+
+### 7.2 Programa de Onboarding (30-60-90 dias)
+
+**Primeiros 30 dias:**
+- Setup completo de equipamentos e acessos
+- Treinamentos obrigatórios (Compliance, Segurança)
+- Buddy Program com colega senior
+- 3 certificações foundation obrigatórias
+- Projetos de baixa complexidade
+
+**30-60 dias:**
+- Primeira certificação professional/associate
+- Participação em projetos reais
+- Feedback session com manager
+- Definição de plano de desenvolvimento individual
+
+**60-90 dias:**
+- Avaliação de performance completa
+- Confirmação ou não do período probatório
+- Definição de metas para o próximo trimestre
+- Planejamento de certificações para o ano
+
+---
+
+## 8. Políticas de Diversidade e Inclusão
+
+### 8.1 Composição Atual da Empresa
+**Por Gênero:**
+- Masculino: 198 (69%)
+- Feminino: 85 (29.6%)
+- Não-binário: 4 (1.4%)
+
+**Por Etnia:**
+- Brancos: 156 (54.4%)
+- Pardos: 89 (31.0%)
+- Pretos: 31 (10.8%)
+- Asiáticos: 8 (2.8%)
+- Indígenas: 3 (1.0%)
+
+**Por Faixa Etária:**
+- 18-25 anos: 45 (15.7%)
+- 26-35 anos: 167 (58.2%)
+- 36-45 anos: 58 (20.2%)
+- 46+ anos: 17 (5.9%)
+
+### 8.2 Metas de Diversidade (2025-2027)
+- **Paridade de gênero:** 45% mulheres até 2027
+- **Liderança feminina:** 40% em posições de liderança
+- **Representatividade étnica:** Proporcionalidade com dados IBGE
+- **Inclusão PcD:** 5% do quadro (meta legal: 2%)
+
+### 8.3 Programas de Inclusão
+- **Women in Tech:** Mentoria e networking (35 participantes)
+- **Black in Tech:** Desenvolvimento de lideranças negras (18 participantes)
+- **Pride Tech:** Grupo de apoio LGBTQIA+ (22 participantes)
+- **Accessibility First:** Melhorias de acessibilidade (12 participantes)
+
+---
+
+## 9. Performance Management e Avaliações
+
+### 9.1 Ciclo de Performance (Trimestral)
+**OKRs Individuais e de Equipe:**
+- Q1: Definição de objetivos anuais
+- Q2: Review mid-year + ajustes
+- Q3: Preparação para performance review
+- Q4: Avaliação final + planejamento próximo ano
+
+### 9.2 Matriz de Competências
+**Competências Técnicas (70% da avaliação):**
+- Proficiência em Cloud Platforms (AWS/Azure/GCP)
+- DevOps e Automation Skills
+- Security Best Practices
+- Architecture Design
+- Programming/Scripting
+- Problem Solving
+
+**Competências Comportamentais (30% da avaliação):**
+- Comunicação e Colaboração
+- Liderança e Mentoria
+- Adaptabilidade e Aprendizado
+- Ownership e Accountability
+- Customer Focus
+- Innovation Mindset
+
+### 9.3 Calibração e 360° Feedback
+- **Peer Review:** 5 colegas avaliam
+- **Upward Review:** Avaliação do manager
+- **Cross-functional:** Feedback de outros times
+- **Customer Feedback:** Quando aplicável
+- **Self Assessment:** Autoavaliação detalhada
+
+---
+
+## 10. Contatos e Estrutura do RH
+
+### 10.1 Equipe de RH (27 pessoas)
+**CHRO:** Rafael Gonzales (rafael.gonzales@bspcloud.com)
+- MBA em Gestão de Pessoas (FGV)
+- 15 anos experiência em tech
+- SHRM-SCP certified
+
+**Gerentes de RH:**
+- **Juliana Mendes** - Desenvolvimento e T&D (juliana.mendes@bspcloud.com)
+- **Carlos Ribeiro** - Recrutamento e Seleção (carlos.ribeiro@bspcloud.com)  
+- **Patricia Lima** - Compensation & Benefits (patricia.lima@bspcloud.com)
+- **Fernando Costa** - People Operations (fernando.costa@bspcloud.com)
+
+### 10.2 Business Partners por Área
+- **Engineering:** Amanda Silva (amanda.silva@bspcloud.com)
+- **Cloud Operations:** Roberto Santos (roberto.santos@bspcloud.com)
+- **Sales & Marketing:** Mariana Oliveira (mariana.oliveira@bspcloud.com)
+- **Finance & Legal:** José Carlos (jose.carlos@bspcloud.com)
+
+### 10.3 Especialistas
+- **D&I Leader:** Camila Johnson (camila.johnson@bspcloud.com)
+- **Learning & Development:** Bruno Martins (bruno.martins@bspcloud.com)
+- **Employee Experience:** Ana Beatriz (ana.beatriz@bspcloud.com)
+- **People Analytics:** Lucas Ferreira (lucas.ferreira@bspcloud.com)
+
+### 10.4 Canais de Comunicação
+- **Portal do Colaborador:** portal.bspcloud.com
+- **Slack RH:** #rh-geral, #rh-certificacoes, #rh-carreiras
+- **Email RH:** rh@bspcloud.com
+- **WhatsApp RH:** (11) 99887-7654 (emergências)
+- **Feedback Anônimo:** feedback.bspcloud.com
+
+### 10.5 Horários de Atendimento
+- **Presencial:** Segunda a Sexta, 8h às 18h
+- **Chat/Slack:** Segunda a Sexta, 7h às 20h
+- **Email:** Resposta em até 24h úteis
+- **Emergências:** 24x7 via WhatsApp
+
+---
+
+## 11. Compliance e Políticas Legais
+
+### 11.1 Certificações da Empresa
+- **ISO 27001:** Information Security Management
+- **SOC 2 Type II:** Security and Availability
+- **ISO 9001:** Quality Management System
+- **LGPD Compliance:** Data Protection Officer designado
+
+### 11.2 Auditorias e Compliance
+- **Auditoria Externa:** Anual (KPMG)
+- **Auditoria Interna:** Trimestral
+- **Compliance Officer:** Maria Helena Santos
+- **DPO:** Dr. Carlos Eduardo Almeida
+
+### 11.3 Código de Conduta
+- Tolerância zero para assédio
+- Política antidiscriminação
+- Conflito de interesses
+- Proteção de dados e informações
+- Uso adequado de recursos corporativos
+
+---
+
+**Documento aprovado por:** Rafael Gonzales (CHRO)  
+**Data da última atualização:** 15 de maio de 2025  
+**Próxima revisão:** 15 de agosto de 2025  
+**Versão:** 3.2.1

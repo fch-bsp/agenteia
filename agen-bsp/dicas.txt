@@ -1,0 +1,184 @@
+criação do ambinte virtual 
+01 python3 -m venv agente
+
+start a aplicação
+Ativa ambiente virtual
+source agent/bin/activate
+
+Install pip
+pip install -r requirements.txt
+
+Start Back-end
+python3 app.py
+
+Start Front-end
+python3  -m streamlit run chat-new.py
+
+
+Perguntas mais conversacionais
+
+# Perguntas para Teste de Agente LLM
+
+## 📊 Perguntas sobre PROJETOS ATUAIS
+
+### 1. Análise Financeira e ROI
+**Pergunta:** 
+
+Considerando todos os projetos em andamento, qual é o TCO (Total Cost of Ownership) total até o momento e qual projeto 
+tem o melhor ROI potencial baseado nos benefícios esperados versus investimento atual? Inclua uma análise de risco-benefício.
+
+**Complexidade:** Alta - Requer cálculos financeiros, análise comparativa e interpretação de métricas técnicas.
+
+---
+
+### 2. Identificação de Dependências e Riscos
+**Pergunta:** 
+
+Identifique todas as dependências técnicas entre os projetos (por exemplo, shared resources, 
+tecnologias comuns, equipes sobrepostas) e liste os 3 principais riscos que poderiam impactar múltiplos projetos simultaneamente.
+
+**Complexidade:** Alta - Requer análise de relacionamentos complexos e pensamento sistêmico.
+
+---
+
+### 3. Otimização de Recursos Humanos
+**Pergunta:**
+
+Fernando Carlos está alocado em 3 projetos diferentes. Analise sua carga de trabalho e sugira uma redistribuição de responsabilidades 
+que otimize a entrega dos projetos sem comprometer prazos. Considere as habilidades técnicas necessárias.
+
+
+
+**Complexidade:** Média-Alta - Requer análise de recursos, planejamento e otimização.
+
+---
+
+### 4. Comparação Técnica de Arquiteturas
+**Pergunta:** 
+
+Compare as arquiteturas de dados entre o projeto Data Lake (GCP) e o projeto MLOps Pipeline. 
+Quais componentes podem ser reutilizados e onde há oportunidades de integração para reduzir custos operacionais?"
+
+**Complexidade:** Alta - Requer conhecimento técnico profundo e análise de arquiteturas.
+
+---
+
+### 5. Análise de Performance e SLA
+**Pergunta:** 
+
+Com base nas métricas técnicas definidas, qual projeto terá o maior impacto na melhoria de performance geral da 
+infraestrutura da empresa? Calcule o impacto percentual esperado em latência, throughput e uptime.
+
+**Complexidade:** Média - Requer interpretação de métricas e cálculos de performance.
+
+---
+
+
+
+
+## 👥 Perguntas sobre POLÍTICAS DE RH
+
+### 1. Simulação de Progressão de Carreira e ROI
+**Pergunta:** 
+
+Um Cloud Engineer II com 4 anos de experiência e 3 certificações AWS quer chegar ao nível Principal em 4 anos. 
+Calcule o plano de certificações necessário, o investimento total da empresa, o aumento salarial acumulado e o ROI potencial considerando retenção vs cost of replacement."
+
+**Complexidade:** Alta - Requer cálculos financeiros complexos, planejamento de carreira e análise de ROI.
+
+---
+
+### 2. Análise de Diversidade e Metas
+**Pergunta:** 
+
+Baseado na composição atual da empresa (287 funcionários), quantos profissionais de cada perfil demográfico devem ser contratados nos próximos 
+24 meses para atingir as metas de diversidade de 2027? Considere um crescimento de 25% no headcount.
+
+**Complexidade:** Média-Alta - Requer cálculos estatísticos e planejamento estratégico.
+
+---
+
+### 3. Otimização de Budget de Certificações
+**Pergunta:** 
+A empresa tem budget anual de certificações. Se 40% dos funcionários júnior, 60% dos plenos e 80% dos seniores buscarem 
+certificações este ano, qual será o custo total? Sugira uma estratégia de priorização se o budget for 20% menor que o necessário.
+
+**Complexidade:** Alta - Requer cálculos complexos por categoria e otimização de recursos.
+
+---
+
+### 4. Análise de Competitividade Salarial
+**Pergunta:** "Compare a estrutura salarial da BSPCLOUD com o mercado. Um Senior Cloud Engineer nível IV com 5 certificações AWS ganha quanto em compensação total? Isso está alinhado com a média de mercado para São Paulo? Justifique com os benefícios."
+
+**Complexidade:** Média - Requer cálculo de compensação total e análise de mercado.
+
+---
+
+### 5. Simulação de Processo de Contratação
+**Pergunta:** "A empresa precisa contratar 12 Cloud Engineers nos próximos 6 meses. Baseado no pipeline atual (taxa de aprovação 15%, tempo médio 18 dias), quantos candidatos devem entrar no funil? Qual será o custo total de contratação e tempo necessário da equipe de RH?"
+
+**Complexidade:** Média - Requer cálculos de pipeline de vendas aplicados a RH.
+
+---
+
+## 🔄 Perguntas CROSS-DOCUMENT (Integração entre Projetos e RH)
+
+### 1. Alinhamento de Skills vs Projetos
+**Pergunta:** 
+
+Analisando os projetos atuais e as certificações da equipe técnica, identifique gaps de competências que podem impactar os prazos. 
+Quais certificações são mais urgentes para cada projeto e qual seria o investimento total necessário?
+
+**Complexidade:** Muito Alta - Requer correlação entre documentos e análise de gaps.
+
+---
+
+### 2. Planejamento de Contratações Estratégicas
+**Pergunta:** 
+
+Baseado na complexidade técnica dos 7 projetos atuais, que perfis de profissionais devem ser priorizados nas contratações? Calcule o nível, 
+certificações necessárias e budget total considerando os salários da tabela RH.
+
+**Complexidade:** Muito Alta - Requer análise estratégica integrando ambos documentos.
+
+---
+
+### 3. Impacto de Turnover em Projetos Críticos
+**Pergunta:** 
+
+Se Carlos Oliveira (responsável pelo Data Lake - $450k budget) deixar a empresa, qual seria o impacto nos projetos? Quem na equipe atual 
+poderia assumir, que certificações adicionais seriam necessárias e qual o custo de replacement?
+
+**Complexidade:** Alta - Requer análise de riscos e planejamento de contingência.
+
+---
+
+### 4. ROI de Investimento em Pessoas vs Projetos
+**Pergunta:** "
+
+Compare o ROI de investir $100k em certificações da equipe atual vs contratar 2 Senior Engineers. Qual estratégia acelera mais a 
+entrega dos projetos e reduz riscos técnicos?"
+
+**Complexidade:** Muito Alta - Requer análise financeira comparativa complexa.
+
+---
+
+### 5. Otimização de Performance através de Incentivos
+**Pergunta:** 
+
+Crie um programa de bonificação específico para acelerar os projetos em atraso (AWS Migration - 45% concluído, MLOps - 35%). 
+Qual combinação de certificações, promoções e bônus maximizaria a entrega dentro do prazo original?
+
+**Complexidade:** Muito Alta - Requer design de programa de incentivos baseado em dados.
+
+Qual é o orçamento total de todos os projetos e quantos estão com status acima de 40% de conclusão?
+
+Quais tecnologias de cloud são mais utilizadas nos projetos e qual linguagem de programação tem maior participação?
+
+Qual projeto tem o maior orçamento e qual é seu prazo de conclusão e responsável?
+
+Quantos funcionários trabalham no horário das 09h às 16h e em quais meses eles aparecem? Liste também todos os horários 
+únicos encontrados na base de dados.
+
+Qual funcionário tem maior frequência presencial na semana de 26/05 a 30/05/2025 e quantos dias cada um dos funcionários em 
+férias ou plantão trabalham?

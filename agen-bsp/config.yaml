@@ -1,0 +1,10 @@
+api_key:
+  key: "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"
+model:
+  name:   "gpt-4o"    # "gpt-4o"  "gpt-3.5-turbo"  "o3-mini" "o1-mini"
+
+
+# Configurações gerais
+configuracoes:
+  temperatura: 0
+  contexto_maximo: 4000
