@@ -1,5 +1,5 @@
 # BSPCLOUD IA Assistente 🤖
-
+![Image](https://github.com/user-attachments/assets/3293c943-0a21-4f11-ac60-06d4ccced9a2)
 Um assistente virtual inteligente desenvolvido para fornecer suporte e informações sobre serviços cloud e recursos internos da BSPCLOUD.
 
 ## 📋 Descrição
